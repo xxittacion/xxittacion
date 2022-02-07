@@ -1,6 +1,6 @@
-[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
-
 ## My name is Pavel, I am a future senior in the front development
+
+[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
