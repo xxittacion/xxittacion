@@ -8,7 +8,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React)
 
-
-
-
-Fallow me
