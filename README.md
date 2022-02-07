@@ -13,4 +13,6 @@
 
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
+## Every day I improve my skills and climb up to my goal
+
 [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion)
