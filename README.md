@@ -11,4 +11,6 @@
 
 ## In the future, I see myself as a React developer in a large company
 
+[![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
+
 [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion)
