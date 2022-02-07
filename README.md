@@ -6,6 +6,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React)
+
 
 
 
