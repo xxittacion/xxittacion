@@ -1,6 +1,6 @@
 ## My name is Pavel, I am a future senior in the front development
 
-[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
+[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif){: style="border-radius: 10px"}](https://github.com/xxittacion)
 
 ## Programming languages ​​and tools that I am currently learning
 
@@ -24,16 +24,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxittacion&hide=contribs,issues&show_icons=true&theme=material-palenight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif" alt="Header.gif"
-    border-radius = "10px"/>
-
-<img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif" alt="Main.gif"
-    border-radius = "10px"/>
-
-<img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif" alt="Footer.gif"
-    border-radius = "10px"/>
-
-
-
-    
