@@ -21,3 +21,5 @@
 ## Every day I improve my skills and climb up to my goal
 
 [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxittacion&hide=contribs,issues&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
