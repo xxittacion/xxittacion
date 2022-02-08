@@ -1,6 +1,6 @@
 ## My name is Pavel, I am a future senior in the front development
 
-[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif){: style="border-radius: 10px"}](https://github.com/xxittacion)
+[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
 ## Programming languages ​​and tools that I am currently learning
 
