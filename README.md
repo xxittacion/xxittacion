@@ -29,9 +29,9 @@
 
 ***I am goal oriented and always achieve my goals***
 
-***Responsibility for my decisions is one of my best qualities***
-
 ***Among my shortcomings, I attribute gullibility and kindness to people***
+
+***Responsibility and the ability to make decisions are one of my best qualities***
 
 ***Seeker, if my skills and personal qualities interest you, then let's get to know each other better***
 
