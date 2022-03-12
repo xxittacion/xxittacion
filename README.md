@@ -1,6 +1,6 @@
 ## Hello searcher, my name is Pavel 
-## I am a future React front-end developer
-## I am from Russia and I live in the city of Yaroslavl
+I am a future React front-end developer
+I am from Russia and I live in the city of Yaroslavl
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
