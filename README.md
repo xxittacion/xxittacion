@@ -38,7 +38,7 @@
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
 
-***I believe that teamwork and being able to ask the right questions (a well-asked question is half the answer) is the key to IT development***
+***I believe that teamwork and the ability to ask the right questions (a well-asked question is half the answer) is the key to success***
 
 [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion)
 
