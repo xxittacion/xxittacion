@@ -1,4 +1,5 @@
-## Hello searcher, my name is Pavel, I am a future React front-end developer
+## Hello searcher, my name is Pavel 
+## I am a future React front-end developer
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
