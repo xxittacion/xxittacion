@@ -4,7 +4,12 @@
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
-## Programming languages ​​and tools that I am currently learning
+## I learned HTML5 & CSS3 and make website layouts
+## Slowly I'm learning to make layouts using SASS & SCCSS
+## As well as Gulp & Webpack project builders that I am actively studying
+## I devote a lot of time to JavaScrtipt in particular the basics of the language and OOP
+## And the most important thing for me and what I'm going to is development on React JS and React Native
+
 
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=CSS3)
