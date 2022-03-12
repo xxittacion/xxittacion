@@ -2,6 +2,9 @@
 I am a future React front-end developer < >
 I am from Russia and I live in the city of Yaroslavl
 
+> [!TIP]
+> Optional information to help a user be more successful.
+
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
 ## I learned HTML5 & CSS3 and make website layouts
