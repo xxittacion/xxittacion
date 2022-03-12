@@ -21,8 +21,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React)
 
-## I want to do an internship in a company and become a junior programmer
-## And every day they develop as a specialist in a company of high-level developers
+***I want to do an internship in a company and become a junior programmer***
+
+***And every day they develop as a specialist in a company of high-level developers***
 
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
