@@ -27,7 +27,13 @@
 
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
-## To contact me, you can choose one of the social networks
+***I am goal oriented and always achieve my goals***
+
+***Responsibility for my decisions is one of my best qualities***
+
+***Among my shortcomings, I attribute gullibility and kindness to people***
+
+***Seeker, if my skills and personal qualities interest you, then let's get to know each other better***
 
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
