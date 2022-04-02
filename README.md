@@ -7,7 +7,7 @@
 
 **I learned HTML5 & CSS3 and make website layouts**
 
-**Slowly I'm learning to make layouts using SASS & SCCSS**
+**Slowly I'm learning to make layouts using SASS & SCSS**
 
 **As well as Gulp & Webpack project builders that I am actively studying**
 
