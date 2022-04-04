@@ -1,5 +1,5 @@
-## Hello searcher, my name is Pavel 
-**I am a future React front-end developer**  
+## Hello searcher, my name is Pavel
+**You know I'm something of a programmer myself**  
 
 **I am from Russia and I live in the city of Yaroslavl**
 
