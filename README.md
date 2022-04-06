@@ -3,7 +3,7 @@
 
 **I am from Russia and I live in the city of Yaroslavl**
 
-**"I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior.   
+**"I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior.     
 It will take a couple of years of work in the company to restore my skills."**
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
