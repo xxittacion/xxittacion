@@ -1,4 +1,4 @@
-## Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
+## Hello searcher, my name is Pavel, i am from Russia, and i live in the city of Yaroslavl
 **"You know I'm something of a programmer myself"**
 
 ***I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior   
