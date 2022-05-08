@@ -8,7 +8,7 @@ It will take a couple of years of work in the company to restore my skills***
 
 **I learned HTML5 & CSS3 and make website layouts**
 
-**Slowly I'm learning to make layouts using SASS & SCSS**
+**I use SASS preprocessor and SCSS in my projects**
 
 **As well as Gulp & Webpack project builders that I am actively studying**
 
