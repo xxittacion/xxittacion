@@ -8,7 +8,7 @@ It will take a couple of years of work in the company to restore my skills***
 
 **I learned HTML and CSS**
 
-**Figma layout with sass and bootstrap**
+**Layout with sass and bootstrap**
 
 **Studied the basics of Javascript and OOP**
 
