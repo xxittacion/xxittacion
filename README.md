@@ -10,9 +10,9 @@ It will take a couple of years of work in the company to restore my skills***
 
 **Figma layout with sass and bootstrap**
 
-**Studied the basics of Javascript and OOP*
+**Studied the basics of Javascript and OOP**
 
-**And the most important thing for me and what I'm going to is development on React JS and React Native**
+**I study and practice application development in React**
 
 
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
