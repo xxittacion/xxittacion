@@ -6,13 +6,11 @@ It will take a couple of years of work in the company to restore my skills***
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
-**I learned HTML5 & CSS3 and make website layouts**
+**I learned HTML and CSS**
 
-**I use SASS preprocessor and SCSS in my projects**
+**Figma layout with sass and bootstrap**
 
-**As well as Gulp & Webpack project builders that I am actively studying**
-
-**I devote a lot of time to JavaScrtipt in particular the basics of the language and OOP**
+**Studied the basics of Javascript and OOP*
 
 **And the most important thing for me and what I'm going to is development on React JS and React Native**
 
