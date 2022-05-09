@@ -8,9 +8,9 @@ It will take a couple of years of work in the company to restore my skills***
 
 **I learned HTML and CSS**
 
-**Layout with sass and bootstrap**
+**Layout with SASS and Bootstrap**
 
-**Studied the basics of Javascript and OOP**
+**Studied the basics of JavaScript and OOP**
 
 **I study and practice application development in React**
 
