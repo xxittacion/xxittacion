@@ -28,11 +28,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 **I am goal oriented and always achieve my goals**
 
-**Among my shortcomings, I attribute gullibility and kindness to people**
-
 **Responsibility and the ability to make decisions are one of my best qualities**
-
-**Seeker, if my skills and personal qualities interest you, then let's get to know each other better**
 
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
