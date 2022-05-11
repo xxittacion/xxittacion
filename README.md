@@ -21,13 +21,13 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 ***I want to do an internship in a company and become a junior programmer***
 
-***And every day they develop as a specialist in a company of high-level developers***
+<!-- ***And every day they develop as a specialist in a company of high-level developers*** -->
 
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
 **I am goal oriented and always achieve my goals**
 
-<!-- **Responsibility and the ability to make decisions are one of my best qualities** -->
+**Responsibility and the ability to make decisions are one of my best qualities**
 
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
