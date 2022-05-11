@@ -19,7 +19,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React)
 
-***I want to do an internship in a company and become a junior programmer***
+***For starters, I want to do an internship at a company and become a junior programmer***
 
 <!-- ***And every day they develop as a specialist in a company of high-level developers*** -->
 
