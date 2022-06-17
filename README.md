@@ -21,8 +21,6 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 ***For starters, I want to do an internship at a company and become a junior programmer***
 
-<!-- ***And every day they develop as a specialist in a company of high-level developers*** -->
-
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
 **I am goal oriented and always achieve my goals**
