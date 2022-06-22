@@ -29,7 +29,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
 
-***"Good question is half the answer"***
+<!-- ***"Good question is half the answer"*** -->
 
 <!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
 
