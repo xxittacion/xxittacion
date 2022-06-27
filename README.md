@@ -18,14 +18,12 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
 
-**I am goal oriented and always achieve my goals**
-
-**Responsibility and the ability to make decisions are one of my best qualities**
+**Logical thinking, I think over and take into account different options for events, both in life and in development**
 
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
 
-<!-- ***"Good question is half the answer"*** -->
+***"Good question is half the answer"***
 
 <!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
 
