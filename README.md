@@ -5,13 +5,9 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
-**I learned HTML and CSS**
+**I study Front-end development on my own, I devote a lot of time to JavaScript**
 
-**Layout with SASS and Bootstrap**
-
-**Studied the basics of JavaScript and OOP**
-
-**I study and practice application development in React**
+**Learning the library - React JS and making SPA applications**
 
 ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=CSS3)
