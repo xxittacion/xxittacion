@@ -4,6 +4,7 @@
 
 <div id="header">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
 
 <!-- ***I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior   
