@@ -1,8 +1,8 @@
-## Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" />
 </div>
+
+## Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
 
 <!-- ***I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior   
 It will take a couple of years of work in the company to restore my skills*** -->
