@@ -1,9 +1,8 @@
-
-
-## Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl 
+<h1 align="center">
+  Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
+</h1>
 
 <div id="header">
-  Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" />
 </div>
 
