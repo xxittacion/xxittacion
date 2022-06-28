@@ -32,6 +32,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 ***"Good question is half the answer"***
 
 <div id="header" align="center">
+  ***"Good question is half the answer"***
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
