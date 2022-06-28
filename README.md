@@ -37,7 +37,7 @@ It will take a couple of years of work in the company to restore my skills*** --
   <b>For starters, I want to do an internship at a company and become a junior programmer<b/>
 </p>
 
-[![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion)
+<!-- [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion) -->
 
 <p align="center">
   <b>I have logical thinking, I think over and take into account different options for events, both in life and in application development<b/>
