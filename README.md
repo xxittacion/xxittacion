@@ -14,8 +14,10 @@ It will take a couple of years of work in the company to restore my skills*** --
 <p align="center">
   <b>I study Front-end development on my own, I devote a lot of time to JavaScript<b/>
 </p>
-
-**Learning the library - React JS and making SPA applications**
+  
+<p align="center">
+  <b>Learning the library - React JS and making SPA applications<b/>
+</p>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
