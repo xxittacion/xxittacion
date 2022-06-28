@@ -28,3 +28,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 <!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxittacion&hide=contribs,issues&show_icons=true&theme=material-palenight&border_radius=10px)](https://github.com/xxittacion?tab=repositories) -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
