@@ -4,7 +4,6 @@
 
 <div id="header">
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </div>
 
 <!-- ***I am a senior front-end developer from the future, as a result of the time jump, my skills fell back to the level of a junior   
@@ -31,6 +30,10 @@ It will take a couple of years of work in the company to restore my skills*** --
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/xxittacion)
 
 ***"Good question is half the answer"***
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
 
