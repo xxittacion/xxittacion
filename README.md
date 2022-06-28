@@ -11,7 +11,9 @@ It will take a couple of years of work in the company to restore my skills*** --
 
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
-**I study Front-end development on my own, I devote a lot of time to JavaScript**
+<p align="center">
+  I study Front-end development on my own, I devote a lot of time to JavaScript
+</p>
 
 **Learning the library - React JS and making SPA applications**
 
