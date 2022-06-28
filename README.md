@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="1000"/>
 </div>
 
 ## Hello searcher, my name is Pavel, i am from Russia and i live in the city of Yaroslavl
