@@ -12,7 +12,7 @@ It will take a couple of years of work in the company to restore my skills*** --
 [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)" width="600" height="300"/>
+  <img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif" width="600" height="300"/>
 </div>
 
 **I study Front-end development on my own, I devote a lot of time to JavaScript**
