@@ -25,11 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"      height="40"/>&nbsp;
 </div>
 
-<!-- ![HTML](https://img.shields.io/badge/-HTML-blueviolet?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-blueviolet?style=for-the-badge&logo=React) -->
-
 <p align="center">
   <b>For starters, I want to do an internship at a company and become a junior programmer<b/>
 </p>
