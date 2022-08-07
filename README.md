@@ -43,6 +43,4 @@
   <b>"Good question is half the answer"<b/>
 </p>
 
-[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id148166498)
-
 <!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
