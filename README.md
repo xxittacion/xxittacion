@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <!-- <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"/> -->
-  <img src="https://i.gifer.com/746w.gif"/>
-  <iframe src="https://gifer.com/embed/746w" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+  <img src="https://i.gifer.com/746w.mp4"/>
 </div>
 
 <h2 align="center">
