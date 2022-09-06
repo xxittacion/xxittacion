@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47f4gpyxplivsvnlzsfw7il0ej1k7omba11rpcd8t7&rid=giphy.gif&ct=ts"/>
+  <img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47x5lxk93hfuyzh8sn9fjbyfzy35mqy258u6y2lweb&rid=giphy.gif&ct=s"/>
 </div>
 
 <h2 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h2>
