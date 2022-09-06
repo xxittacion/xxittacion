@@ -26,14 +26,10 @@
 </div> -->
 
 <p align="center">
-  <b>I am developing spa applications using the React library<b/>
+  <b>I am developing spa applications using React<b/>
 </p>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif"
     alt="Header" width="200"/>
 </div>
-
-<p align="center">
-  <b>"Good question is half the answer"<b/>
-</p>
