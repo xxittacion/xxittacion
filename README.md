@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/bB8I978xLHK5HZinPO/giphy.gif?cid=ecf05e47mlysbg0g6hfgazncwuku757ovgyxn1hbllxxeisf&rid=giphy.gif&ct=s"
-    alt="Header" height="300"/>
+    alt="Header" width="300"/>
 </div>
 
 <h2 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h2>
@@ -9,7 +9,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif"
-    alt="Header" width="500" height="500"/>
+    alt="Header" width="500"/>
 </div>
 
 <p align="center">
