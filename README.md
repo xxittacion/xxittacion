@@ -5,7 +5,12 @@
 
 <h2 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h2>
 
-[![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion)
+<!-- [![Header](https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif)](https://github.com/xxittacion) -->
+
+<div id="header" align="center">
+  <img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif"
+    alt="Header" width="300"/>
+</div>
 
 <p align="center">
   <b>I am programming in JavaScript and Python<b/>
