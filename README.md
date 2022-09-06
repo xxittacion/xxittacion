@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/bB8I978xLHK5HZinPO/giphy.gif?cid=ecf05e47mlysbg0g6hfgazncwuku757ovgyxn1hbllxxeisf&rid=giphy.gif&ct=s"
+  <img src="https://media3.giphy.com/media/KVLjxmsoqbMb55moJA/giphy.gif?cid=ecf05e47z43a23nr751tl0oimpx8esx78j1h7pg51zl8wsuo&rid=giphy.gif&ct=ts"
     alt="Header" width="200"/>
 </div>
 
@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif"
-    alt="Header" width="500"/>
+    alt="Header" width="800"/>
 </div>
 
 <p align="center">
