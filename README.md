@@ -1,4 +1,9 @@
 <div id="header" align="center">
+  <img src="https://media2.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif?cid=ecf05e47p6ueut3g1ujwhutfjlfik5uuca4m08qugw5y5c96&rid=giphy.gif&ct=s"
+    alt="Header" width="200"/>
+</div>
+
+<div id="header" align="left">
   <img src="https://media3.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47jkrsm2pr23r3kdxkj3vkukyx1jbmlo6g1w14iti0&rid=giphy.gif&ct=s"
     alt="Header" width="200"/>
 </div>
