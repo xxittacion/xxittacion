@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47f4gpyxplivsvnlzsfw7il0ej1k7omba11rpcd8t7&rid=giphy.gif&ct=ts"/>
 </div>
 
 <h2 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h2>
@@ -26,19 +26,14 @@
   <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e479t624vycs207vzmgp0j7prv56lp0b27a24vljdiv&rid=giphy.gif&ct=s"  title="React" alt="React" width="50"/>&nbsp;
 </div>
 
-<!-- [![Main](https://github.com/xxittacion/xxittacion/blob/main/assets/Main.gif)](https://github.com/xxittacion) -->
-
 <p align="center">
   <b>I think logically, purposeful and responsible<b/>
 </p>
 
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ol21aao3c6rof3k2cl2xder2sfj2aju2xzoycjx0&rid=giphy.gif&ct=s"  width="100"/>
 </div>
 
 <p align="center">
   <b>"Good question is half the answer"<b/>
 </p>
-
-<!-- [![Footer](https://github.com/xxittacion/xxittacion/blob/main/assets/Footer.gif)](https://github.com/xxittacion) -->
