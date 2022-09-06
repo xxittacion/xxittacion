@@ -9,7 +9,7 @@
 
 <div id="header" align="center">
   <img src="https://github.com/xxittacion/xxittacion/blob/main/assets/Header.gif"
-    alt="Header" width="300"/>
+    alt="Header" width="500" height="500"/>
 </div>
 
 <p align="center">
