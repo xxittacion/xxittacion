@@ -3,11 +3,6 @@
     alt="Header" width="200"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47jkrsm2pr23r3kdxkj3vkukyx1jbmlo6g1w14iti0&rid=giphy.gif&ct=s"
-    alt="Header" width="200"/>
-</div>
-
 <h3 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h3>
 
 <div id="header" align="center">
