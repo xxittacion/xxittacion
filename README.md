@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif"
-    alt="Header" width="200"/>
+  <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ol21aao3c6rof3k2cl2xder2sfj2aju2xzoycjx0&rid=giphy.gif&ct=s"            width="100"/>
 </div>
 
 <h3 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h3>
@@ -27,11 +26,12 @@
 </div> -->
 
 <p align="center">
-  <b>I think logically, purposeful and responsible<b/>
+  <b>I am developing spa applications using the React library<b/>
 </p>
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ol21aao3c6rof3k2cl2xder2sfj2aju2xzoycjx0&rid=giphy.gif&ct=s"            width="100"/>
+  <img src="https://media0.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif"
+    alt="Header" width="200"/>
 </div>
 
 <p align="center">
