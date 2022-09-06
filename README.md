@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif?cid=ecf05e47ni794009pvp2rw3zsfwdbg8k1oakn1psrpyedls8&rid=giphy.gif&ct=s"
-    alt="Header" width="300"/>
+    alt="Header"/>
 </div>
 
 <h2 align="center">Hello, my name is Pavel, I'm from Russia and I live in the city of Yaroslavl</h2>
