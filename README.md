@@ -26,7 +26,7 @@
 </div> -->
 
 <p align="center">
-  <b>I am developing spa applications using React<b/>
+  <b>I am developing SPA applications using React<b/>
 </p>
 
 <div id="header" align="center">
