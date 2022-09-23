@@ -26,7 +26,7 @@
 </div> -->
 
 <p align="center">
-  <b>I am developing SPA applications using React<b/>
+  <b>Development of single-page applications adaptive for mobile devices for integration into telegram bots<b/>
 </p>
 
 <div id="header" align="center">
