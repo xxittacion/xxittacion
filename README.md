@@ -26,7 +26,7 @@
 </div> -->
 
 <p align="center">
-  <b>Development of single-page applications adaptive for mobile devices for integration into telegram bots<b/>
+  <b>Development of adaptive spa applications for mobile devices, for integration into telegram bots<b/>
 </p>
 
 <div id="header" align="center">
