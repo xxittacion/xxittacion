@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <b>I am programming in JavaScript and Python<b/>
+  <b>I am programming in JavaScript and TypeScript<b/>
 </p>
 
 <div align="center">
